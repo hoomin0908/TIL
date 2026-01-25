@@ -1,4 +1,4 @@
-arr = [3,2,6,7,1,8]
+arr = ['m','i','n']
 n = int(input())
 
 print(arr[n])

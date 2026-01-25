@@ -5,4 +5,4 @@ arr[0] = a
 arr[2] = b
 
 for i in arr :
-    print(i,end="")
+    print(i,end="") 
