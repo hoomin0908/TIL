@@ -1,6 +1,0 @@
-def mincoding() :
-    global a,b
-    a,b = map(int,input().split())
-    print(f'({a})({b})')
-
-mincoding()
